@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TipCalculator-counter</string>
+    <string name="PeopleLabel">Number of People: </string>
+    <string name="AmountLabel">Enter Total Amount: </string>
+    <string name="clearButtonLabel">Clear</string>
+    <string name="tipButtonLabel">Calculate Tip</string>
+    <string name="percent10">10%</string>
+    <string name="percent15">15%</string>
+    <string name="percent20">20%</string>
+    <string name="percent0">No Tip</string>
+    <string name="percentOther">Other</string>
+</resources>
